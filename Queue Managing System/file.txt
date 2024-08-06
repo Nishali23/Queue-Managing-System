@@ -1,0 +1,12 @@
+******************
+     cashiers     
+******************
+X	X	X
+X	X	X
+	X	X
+		X
+		X
+Burger Stock : 50
+
+All Customers :
+
